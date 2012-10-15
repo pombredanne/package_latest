@@ -1,0 +1,1 @@
+{"name":"package-latest","version":"0.0.1","description":"updates package.json with the latest dependency versions","author":"Matthew Parke","dependencies":{"async":"0.1.22"},"bin":{"package-latest":"./bin/package_latest.js"}}
