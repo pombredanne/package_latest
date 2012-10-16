@@ -9,4 +9,4 @@ in your package.json file to the latest versions in the NPM registry. It will se
 
 ### Run
 
-	package-history
+	package-latest
